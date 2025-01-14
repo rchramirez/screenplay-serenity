@@ -1,4 +1,4 @@
-package screenplay.actors;
+package com.screenplay.serenity.actors;
 
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.abilities.BrowseTheWeb;

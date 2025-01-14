@@ -44,6 +44,12 @@
             <artifactId>serenity-junit5</artifactId>
             <version>4.2.9</version>
         </dependency>
+        <!-- Logback classic -->
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>1.2.10</version>
+        </dependency>
     </dependencies>
 
     <build>

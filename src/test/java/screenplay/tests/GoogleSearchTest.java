@@ -4,9 +4,9 @@ import net.serenitybdd.junit5.SerenityJUnit5Extension;
 import net.serenitybdd.screenplay.Actor;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
-import screenplay.actors.Actors;
-import screenplay.tasks.OpenGoogle;
-import screenplay.questions.Title;
+import com.screenplay.serenity.actors.Actors;
+import com.screenplay.serenity.tasks.OpenGoogle;
+import com.screenplay.serenity.questions.Title;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
